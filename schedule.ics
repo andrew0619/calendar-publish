@@ -13,11 +13,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:schedule-1@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250818T093000
 DTEND;TZID=Asia/Taipei:20250818T120000
 SUMMARY:Deep Work AM
@@ -25,11 +21,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-2@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250818T140000
 DTEND;TZID=Asia/Taipei:20250818T160000
 SUMMARY:Deep Work PM
@@ -37,11 +29,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-3@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250818T160000
 DTEND;TZID=Asia/Taipei:20250818T173000
 SUMMARY:Execution
@@ -49,11 +37,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-4@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250819T093000
 DTEND;TZID=Asia/Taipei:20250819T120000
 SUMMARY:Deep Work AM
@@ -61,11 +45,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-5@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250819T140000
 DTEND;TZID=Asia/Taipei:20250819T160000
 SUMMARY:Deep Work PM
@@ -73,11 +53,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-6@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250819T160000
 DTEND;TZID=Asia/Taipei:20250819T183000
 SUMMARY:Execution
@@ -85,11 +61,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-7@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250820T093000
 DTEND;TZID=Asia/Taipei:20250820T120000
 SUMMARY:Deep Work AM
@@ -97,11 +69,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-8@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250820T150000
 DTEND;TZID=Asia/Taipei:20250820T160000
 SUMMARY:Deep Work PM
@@ -109,11 +77,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-9@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250820T160000
 DTEND;TZID=Asia/Taipei:20250820T170000
 SUMMARY:Execution
@@ -121,11 +85,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-10@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250821T093000
 DTEND;TZID=Asia/Taipei:20250821T120000
 SUMMARY:Deep Work AM
@@ -133,11 +93,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-11@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250821T140000
 DTEND;TZID=Asia/Taipei:20250821T160000
 SUMMARY:Deep Work PM
@@ -145,11 +101,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-12@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250821T160000
 DTEND;TZID=Asia/Taipei:20250821T183000
 SUMMARY:Execution
@@ -157,11 +109,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-13@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250822T093000
 DTEND;TZID=Asia/Taipei:20250822T120000
 SUMMARY:Deep Work AM
@@ -169,11 +117,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-14@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250822T143000
 DTEND;TZID=Asia/Taipei:20250822T160000
 SUMMARY:Deep Work PM
@@ -181,11 +125,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-15@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250822T160000
 DTEND;TZID=Asia/Taipei:20250822T183000
 SUMMARY:Execution
@@ -193,11 +133,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-16@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250823T093000
 DTEND;TZID=Asia/Taipei:20250823T120000
 SUMMARY:[Optional] Deep Work AM
@@ -205,11 +141,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-17@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250823T140000
 DTEND;TZID=Asia/Taipei:20250823T160000
 SUMMARY:[Optional] Deep Work PM
@@ -217,11 +149,7 @@ DESCRIPTION:Auto-generated from workload.yml
 END:VEVENT
 BEGIN:VEVENT
 UID:schedule-18@project-hub
-<<<<<<< HEAD
-DTSTAMP:20250818T085819Z
-=======
-DTSTAMP:20250818T090217Z
->>>>>>> 2f28d42 (feat(sprint): generate weekly sprint from plans and refresh calendar (Asia/Taipei))
+DTSTAMP:20250818T104917Z
 DTSTART;TZID=Asia/Taipei:20250823T160000
 DTEND;TZID=Asia/Taipei:20250823T183000
 SUMMARY:[Optional] Execution
